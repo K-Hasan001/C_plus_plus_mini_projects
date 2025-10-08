@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759931485 source:d:\programming l\c++\basic to intermediate c++ codes\to-do_list\main.cpp
+	<iostream>
+	<fstream>
+
